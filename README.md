@@ -20,4 +20,4 @@
     ░███████                                                                                                                                                                                                                   
 </pre>
 
-<h1>Ternary > Binary</h1>
+**_Ternary > Binary_**
